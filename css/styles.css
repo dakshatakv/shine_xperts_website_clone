@@ -1,0 +1,74 @@
+.Big_font{ font-weight: 700; font-size: 21px;}
+
+.service_pages{ padding:40px 0 40px 0; position:relative;}
+.service_pages:before {
+    position: absolute;
+    content: '';
+    top: 0px;
+    left: 0px;
+    background: rgba(0,0,0,0.3);
+    width: 100%;
+    height: 100%;
+}
+.bgs_services .serviceBox .description p{
+	box-sizing: border-box; 
+	border-color: rgb(225, 225, 225); 
+	border-style: solid; 
+	border-width: 0px; 
+	zoom: 1; 
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0); 
+	text-indent: 40px; 
+	margin-top: 1px !important; 
+	margin-bottom: 2px !important; 
+	text-align: justify !important;
+}
+.ser_textes h1{
+	font-size: 60px;
+	font-weight: 800;
+	letter-spacing: 10px;
+}
+
+.breadclam{ background:#f8f8f8; padding:5px 0;}
+.clam_line ul{ list-style:none; padding:0px; margin:0px;}
+.clam_line ul li {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0 10px 0 0;
+}
+.clam_line ul li span{ color:#ffb401;}
+
+.clam_line ul li a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    color: #333;
+    font-weight: 500;
+}
+.Abouts_con h2{ font-size:24px; color:#111240; margin:0px 0 15px 0; font-weight:500;}
+.Abouts_con h2 span{ font-weight:600; color:#ffb401;}
+.Abouts_con p{ font-size:14px; color:#333; margin:0px 0 10px 0; line-height:22px;}
+.Abouts_con h3{ font-size:20px; color:#333; margin:0 0 5px 0; font-weight:600;}
+.Abouts_con h6{ font-size:14px; color:#ffb401; margin:0 0 20px 0; font-weight:600;}
+
+.bgs_services{ background:#f8f8f8; padding:20px 0;}
+
+.bgs_services .serviceBox h3{
+	font-size: 23px;
+	font-weight: 700;
+}
+
+.bgs_services .serviceBox{
+	height: 410px;
+	margin: 8px;
+}
+
+.clent_review .main_title_2 h2{
+	font-size: 30px;
+	font-weight: 800;
+	letter-spacing: 3px;
+}
+
+.clent_review .main_title_2 p{
+	font-size: 20px;
+}
